@@ -16,7 +16,6 @@ The application serves a static HTML page styled with Bootstrap 5 and custom CSS
 
 **flask-portfolio/**
 
-│
 ├── app.py                  # Flask application entry point  
 ├── templates/  
 │   └── index.html          # Portfolio HTML page  
@@ -31,6 +30,8 @@ The application serves a static HTML page styled with Bootstrap 5 and custom CSS
 Follow these steps to run the project locally:
 
 ### 
+
+
 1️⃣ Clone this repository
 ```bash
 git clone https://github.com/karan-karan/Python-Flask-My-Portfolio.git
@@ -50,4 +51,5 @@ pip install -r requirements.txt
 python app.py
 
 Then open your browser and go to 👉 http://127.0.0.1:5000/
+
 
